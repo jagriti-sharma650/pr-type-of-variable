@@ -1,0 +1,9 @@
+# pr-type-of-variable#a = int(input("ente a number"))
+
+a=input() #1
+
+print(type(a))
+ 
+a=int(a)#2
+
+print(type(a))
